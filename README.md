@@ -1,1 +1,2 @@
 # sxabar
+# yangiliklar sayti
